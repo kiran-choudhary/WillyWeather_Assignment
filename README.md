@@ -10,5 +10,6 @@
 4. App works offline if data has cached.
 
 
-Test envirnment
+<b>Test envirnment</b>
+
 This code has been tested on Android 10.
