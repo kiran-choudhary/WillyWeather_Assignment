@@ -1,3 +1,4 @@
+<b>App architecture</b>
 ![mvvm-arch](https://user-images.githubusercontent.com/13735913/110093636-f3a80600-7dc0-11eb-9570-cd2c816e9290.png)
 Features implemented:
 1. Fetch Book list from API.
