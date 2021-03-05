@@ -23,8 +23,8 @@
             android:layout_below="@id/book_detail_desc"
             android:layout_alignParentStart="true"
             android:layout_margin="@dimen/book_detail_margin"
-            android:paddingStart="5dp"
-            android:paddingEnd="5dp"
+            android:paddingStart="@dimen/tupple_padding"
+            android:paddingEnd="@dimen/tupple_padding"
             android:textColor="@android:color/holo_red_dark"
             android:textSize="@dimen/book_txt_size" />
 
@@ -35,8 +35,8 @@
             android:layout_alignParentEnd="true"
             android:layout_below="@id/book_detail_desc"
             android:layout_margin="@dimen/book_detail_margin"
-            android:paddingStart="5dp"
-            android:paddingEnd="5dp"
+            android:paddingStart="@dimen/tupple_padding"
+            android:paddingEnd="@dimen/tupple_padding"
             android:textColor="@android:color/holo_red_dark"
             android:textSize="@dimen/book_txt_size" />
 
