@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="book_name">book_name</string>
+    <string name="book_author">book_author</string>
+    <string name="author_name">Author:  %s</string>
+    <string name="book_price_value">Price: ₹%s</string>
+    <string name="book_desc">book_desc</string>
+    <string name="book_price">book_price</string>
+    <string name="book_img_url">book_img_url</string>
+    <string name="no_books_available">No books available !!</string>
+    <string name ="book">book</string>>
+</resources>
